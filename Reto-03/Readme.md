@@ -10,4 +10,4 @@
 
 1. Utilizando el ejecutable `mysqldump` genera un archivo *.sql* que contenga la base de datos **classicmodels** que hemos estado utilizando en el curso.
 
-1. Descarga el [archivo bson de la bolsa de valores de NASDAQ](../stocks.zip) y utilizando el comando `mongorestore` súbelo a tu cluster de MongoAtlas.
+1. Descarga el [archivo bson de la bolsa de valores de NASDAQ](https://dl.dropbox.com/s/p75zp1karqg6nnn/stocks.zip) y utilizando el comando `mongorestore` súbelo a tu cluster de MongoAtlas.
